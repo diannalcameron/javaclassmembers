@@ -6,7 +6,7 @@ The instructor's name is Scott Dossey
 
 ## Students
 
+* Dianna Cameronus
 * Teah Liana
-* Adam Brockhaus
-* Dianna Cameron
+* Adam Brockha
 * Rahim Manesiya

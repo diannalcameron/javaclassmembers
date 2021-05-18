@@ -8,3 +8,4 @@ The instructor's name is Scott Dossey
 
 * Adam Brockhaus
 * Dianna Cameron
+* Rahim Manesiya
